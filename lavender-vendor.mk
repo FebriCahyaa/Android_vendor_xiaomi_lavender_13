@@ -1471,6 +1471,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     qcrilmsgtunnel \
     ims \
+    deviceInfoServiceModule \
     QtiTelephonyServicelibrary \
     com.qti.dpmframework \
     dpmapi \
